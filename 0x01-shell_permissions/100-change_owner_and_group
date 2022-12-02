@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 775 100-change_owner_and_group
+chown -v vincent:staff
